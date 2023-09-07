@@ -1,0 +1,34 @@
+*{box-sizing: border-box;}
+.title{
+    background-color: palegreen;
+    color: blue;
+    padding: 1em;
+    text-align: center;
+}
+.image1, .image2, .image3, .image4 .image5, .image6{  
+width: 45%;
+margin: 2%;
+} 
+.image1{
+    border-radius: 15px;
+    box-shadow: 2px 2px 3px black;
+}
+.image2{
+    border-radius: 50%;
+}
+.image3{
+    border: salmon 10px inset;
+    padding: 1em;
+    background-color: burlywood;
+}
+.image4{
+    box-shadow: 0px 0px 3px 2px greenyellow ;
+}
+.image5{
+    border-radius: 50% ;
+    padding: 1em;
+}
+.image6{
+    box-shadow: 2px 2px 3px pink ;
+    border: orangered 10px inset ;
+}
